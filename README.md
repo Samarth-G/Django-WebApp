@@ -1,2 +1,7 @@
 # Django-WebApp
-Voting web app made from Python (Django)
+
+An online polling/votting platform with a backend admin page (customizable) <br>
+Includes result of total votes for all choices
+
+<br><br>
+Created using Django
