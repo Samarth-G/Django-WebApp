@@ -1,3 +1,5 @@
 from django.shortcuts import render
+from .models import Questions, Choice
 
-# Create your views here.
+def index(request):
+    return render(request, 'voting/index.html')
